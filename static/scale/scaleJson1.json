@@ -1,0 +1,503 @@
+{
+  "code": 200,
+  "data": {
+    "id": 1,
+    "scaleTitle": "初筛首访简易问卷",
+    "type": "3",
+    "explain": "根据过去两周的情况，请选择一个最符合您的选项。",
+    "problem": [
+      {
+        "questionNum": "1",
+        "question": "您是否有以下症状，选择一项或多项,若无症状，请直接点击下一题",
+        "type":"1",
+        "symptom": [
+          {
+            "question": "口干",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "出汗",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "心悸",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "呼吸困难",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "喉部堵塞感",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "气急",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "面色潮红或苍白",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "阵发性发冷发热",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "头疼",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "头晕",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "失平衡感",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "疲劳或乏力",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "腹胀",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "恶心",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "呕吐",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "腹泻",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "便秘",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          },
+          {
+            "question": "多部位疼痛或不适",
+            "answers": [
+              "极重度",
+              "重度",
+              "中度",
+              "轻度"
+            ],
+            "answer": ""
+          }
+        ],
+        "data": [],
+        "nextNum": 0,
+        "prevNum": 0
+      },
+    
+      {
+        "questionNum": "2",
+        "type":"0",
+        "question": "我容易生病。",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "3",
+        "type":"0",
+        "question": "我的睡眠不好。",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "4",
+        "question": "我的饮食中各类食物比重不均衡。",
+        "type":"0",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "5",
+        "question": "我有以下症状，我感觉严重。",
+        "type":"2",
+        "symptom":[{
+          "title":"女性回答",
+           "data":["月经不调","体毛","性功能","长痘及皮肤变化"]
+        },{
+          "title":"男性回答",
+          "data":["长痘","皮肤变化","性功能","体重等变化"]
+        }],
+        "answer":"",
+        "data":[],
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "6",
+        "type":"0",
+        "question": "我容易过敏。",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "7",
+        "type":"0",
+        "question": "发病前发生了让我印象深刻的事情。",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "8",
+        "type":"0",
+        "question": "我有多思多虑或反复洗手、关门窗、计数等情况。",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "9",
+        "type":"0",
+        "question": "我有过突然的心悸、手足发麻、濒死感、或失去控制感",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "10",
+        "type":"0",
+        "question": "目前的压力与我的承载力失衡了。",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "11",
+        "type":"0",
+        "question": "每当生病时，我都会觉得非常恐慌。",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "12",
+        "type":"0",
+        "question": "当我有压力或情绪波动时易出现身体不适。",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "13",
+        "type":"0",
+        "question": "我和我的主要家人（父母、配偶、子女）关系有困扰。",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "14",
+        "type":"0",
+        "question": "我感到目前处于消耗状态。",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "15",
+        "type":"0",
+        "question": "我的自我感受良好",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "16",
+        "type":"0",
+        "question": "我性子急。",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "17",
+        "type":"0",
+        "question": "我的生活习惯有规律。",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "18",
+        "type":"0",
+        "question": "我近期的生活习惯有变化（如饮食、烟酒、环境、兴趣爱好等）",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "19",
+        "type":"0",
+        "question": "以我目前的状态，可以胜任日常的生活工作活动。",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "20",
+        "type":"0",
+        "question": "我能得到别人的支持和帮助。",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      },
+      {
+        "questionNum": "21",
+        "type":"0",
+        "question": "我的居住、工作和学习环境中有生化或声光影响。",
+        "answers": [
+          "完全符合",
+          "符合",
+          "中立",
+          "不符合",
+          "完全不符合"
+        ],
+        "answer": "",
+        "nextNum": 0,
+        "prevNum": 0
+      }
+    ]
+  }
+}
